@@ -1,0 +1,965 @@
+{
+    "draws": [
+        {
+            "title": "Dinosaur egg",
+            "link": "res/data/SVGs/dinosaur_egg.svg",
+            "keyWords": [
+                "egg",
+                "dinosaur"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Danger Sign",
+            "link": "res/data/SVGs/danger_sign.svg",
+            "keyWords": [
+                "danger",
+                "sign",
+                "attention"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bulb",
+            "link": "res/data/SVGs/bulb.svg",
+            "keyWords": [
+                "bulb",
+                "light"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Brain",
+            "link": "res/data/SVGs/brain.svg",
+            "keyWords": [
+                "brain",
+                "human",
+                "intelligence"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Hunting rifle",
+            "link": "res/data/SVGs/hunting_rifle.svg",
+            "keyWords": [
+                "rifle",
+                "gun",
+                "hunt",
+                "hunting"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Scenic car",
+            "link": "res/data/SVGs/scenic_car.svg",
+            "keyWords": [
+                "car",
+                "scenic",
+                "vehicle"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Shark",
+            "link": "res/data/SVGs/shark.svg",
+            "keyWords": [
+                "shark",
+                "fish"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Gear",
+            "link": "res/data/SVGs/gear.svg",
+            "keyWords": [
+                "gear",
+                "mecanic"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Wifi logo",
+            "link": "res/data/SVGs/wifi_logo.svg",
+            "keyWords": [
+                "wifi",
+                "logo",
+                "connection"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Chicken egg",
+            "link": "res/data/SVGs/chicken_egg.svg",
+            "keyWords": [
+                "chicken",
+                "egg",
+                "hen"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Chicken thigh",
+            "link": "res/data/SVGs/chicken_thigh.svg",
+            "keyWords": [
+                "chicken",
+                "thigh"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Stomach",
+            "link": "res/data/SVGs/stomach.svg",
+            "keyWords": [
+                "stomach",
+                "human",
+                "body"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Thermometer",
+            "link": "res/data/SVGs/thermometer.svg",
+            "keyWords": [
+                "thermometer",
+                "heat"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Water drop",
+            "link": "res/data/SVGs/water_drop.svg",
+            "keyWords": [
+                "water",
+                "drop"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Blood drop",
+            "link": "res/data/SVGs/blood_drop.svg",
+            "keyWords": [
+                "blood",
+                "drop"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Lightning",
+            "link": "res/data/SVGs/lightning.svg",
+            "keyWords": [
+                "lightning",
+                "bolt"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Garden lamp",
+            "link": "res/data/SVGs/garden_lamp.svg",
+            "keyWords": [
+                "garden",
+                "lamp",
+                "light"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bird feeder",
+            "link": "res/data/SVGs/bird_feeder.svg",
+            "keyWords": [
+                "bird",
+                "feeder",
+                "garden",
+                "animal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Plant",
+            "link": "res/data/SVGs/plant.svg",
+            "keyWords": [
+                "plant",
+                "pot"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bean seeds",
+            "link": "res/data/SVGs/bean_seeds.svg",
+            "keyWords": [
+                "bean",
+                "seed",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Beans",
+            "link": "res/data/SVGs/beans.svg",
+            "keyWords": [
+                "bean",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Beet",
+            "link": "res/data/SVGs/beet.svg",
+            "keyWords": [
+                "beet",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Book",
+            "link": "res/data/SVGs/book.svg",
+            "keyWords": [
+                "book"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Carrot",
+            "link": "res/data/SVGs/carrot.svg",
+            "keyWords": [
+                "carrot",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Cash machine",
+            "link": "res/data/SVGs/cash_machine.svg",
+            "keyWords": [
+                "cash",
+                "machine",
+                "money"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Hammer",
+            "link": "res/data/SVGs/hammer.svg",
+            "keyWords": [
+                "hammer",
+                "tool"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Hoe",
+            "link": "res/data/SVGs/hoe.svg",
+            "keyWords": [
+                "hoe",
+                "tool"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Leaf",
+            "link": "res/data/SVGs/leaf.svg",
+            "keyWords": [
+                "leaf"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Leek",
+            "link": "res/data/SVGs/leek.svg",
+            "keyWords": [
+                "leek",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Locked padlock",
+            "link": "res/data/SVGs/locked_padlock.svg",
+            "keyWords": [
+                "locked",
+                "padlock"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Magnifying glass",
+            "link": "res/data/SVGs/magnifying_glass.svg",
+            "keyWords": [
+                "magnifying",
+                "glass"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Medal",
+            "link": "res/data/SVGs/medal.svg",
+            "keyWords": [
+                "medal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Money pouch",
+            "link": "res/data/SVGs/money_pouch.svg",
+            "keyWords": [
+                "money",
+                "pouch",
+                "cash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Potato",
+            "link": "res/data/SVGs/potato.svg",
+            "keyWords": [
+                "potato",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Radish",
+            "link": "res/data/SVGs/radish.svg",
+            "keyWords": [
+                "radish",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Salad",
+            "link": "res/data/SVGs/salad.svg",
+            "keyWords": [
+                "salad",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Shovel",
+            "link": "res/data/SVGs/shovel.svg",
+            "keyWords": [
+                "shovel",
+                "tool"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Tomato",
+            "link": "res/data/SVGs/tomato.svg",
+            "keyWords": [
+                "tomato",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Tree",
+            "link": "res/data/SVGs/tree.svg",
+            "keyWords": [
+                "tree",
+                "nature",
+                "vegetation"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Tree trunk",
+            "link": "res/data/SVGs/tree_trunk.svg",
+            "keyWords": [
+                "tree",
+                "trunk",
+                "nature",
+                "vegetation"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Vase",
+            "link": "res/data/SVGs/vase.svg",
+            "keyWords": [
+                "vase",
+                "decoration"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Watermelon",
+            "link": "res/data/SVGs/watermelon.svg",
+            "keyWords": [
+                "watermelon",
+                "vegetable"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Amber",
+            "link": "res/data/SVGs/amber.svg",
+            "keyWords": [
+                "amber"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Anvil",
+            "link": "res/data/SVGs/anvil.svg",
+            "keyWords": [
+                "anvil",
+                "metal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Astronaut helmet",
+            "link": "res/data/SVGs/astronaut_helmet.svg",
+            "keyWords": [
+                "astronaut",
+                "helmet",
+                "dead",
+                "space"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bomb",
+            "link": "res/data/SVGs/bomb.svg",
+            "keyWords": [
+                "bomb",
+                "explosion"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bone",
+            "link": "res/data/SVGs/bone.svg",
+            "keyWords": [
+                "bone",
+                "skeleton"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Broken TV",
+            "link": "res/data/SVGs/broken_tv.svg",
+            "keyWords": [
+                "broken",
+                "tv",
+                "crt",
+                "screen"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Candle",
+            "link": "res/data/SVGs/candle.svg",
+            "keyWords": [
+                "candle",
+                "light"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Candy",
+            "link": "res/data/SVGs/candy.svg",
+            "keyWords": [
+                "candy",
+                "chocolate"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Closed bin",
+            "link": "res/data/SVGs/closed_bin.svg",
+            "keyWords": [
+                "closed",
+                "bin",
+                "trash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Compass",
+            "link": "res/data/SVGs/compass.svg",
+            "keyWords": [
+                "compass",
+                "direction"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Cute coin",
+            "link": "res/data/SVGs/cute_coin.svg",
+            "keyWords": [
+                "cute",
+                "coin",
+                "gold"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Cute heart",
+            "link": "res/data/SVGs/cute_heart.svg",
+            "keyWords": [
+                "cute",
+                "heart",
+                "life"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Diamond",
+            "link": "res/data/SVGs/diamond.svg",
+            "keyWords": [
+                "diamond",
+                "precious"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Dog silhouette",
+            "link": "res/data/SVGs/dog_silhouette.svg",
+            "keyWords": [
+                "dog",
+                "silhouette",
+                "icon"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Gold coin",
+            "link": "res/data/SVGs/gold_coin.svg",
+            "keyWords": [
+                "gold",
+                "coin"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Handgun",
+            "link": "res/data/SVGs/handgun.svg",
+            "keyWords": [
+                "handgun",
+                "gun",
+                "weapon"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Harp",
+            "link": "res/data/SVGs/harp.svg",
+            "keyWords": [
+                "harp",
+                "music"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Haunted mirror",
+            "link": "res/data/SVGs/haunted_mirror.svg",
+            "keyWords": [
+                "haunted",
+                "mirror",
+                "spirit",
+                "ghost"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Heart",
+            "link": "res/data/SVGs/heart.svg",
+            "keyWords": [
+                "heart",
+                "life"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Knife",
+            "link": "res/data/SVGs/knife.svg",
+            "keyWords": [
+                "knife",
+                "weapon",
+                "dagger"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Little statue",
+            "link": "res/data/SVGs/little_statue.svg",
+            "keyWords": [
+                "little",
+                "statue",
+                "stone"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Magnet",
+            "link": "res/data/SVGs/magnet.svg",
+            "keyWords": [
+                "magnet",
+                "metal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Megaphone",
+            "link": "res/data/SVGs/megaphone.svg",
+            "keyWords": [
+                "megaphone",
+                "sound"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Muted megaphone",
+            "link": "res/data/SVGs/muted_megaphone.svg",
+            "keyWords": [
+                "muted",
+                "megaphone",
+                "sound"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Necklace",
+            "link": "res/data/SVGs/necklace.svg",
+            "keyWords": [
+                "necklace",
+                "jewel"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Notepad",
+            "link": "res/data/SVGs/notepad.svg",
+            "keyWords": [
+                "notepad",
+                "notes"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Opened bin",
+            "link": "res/data/SVGs/opened_bin.svg",
+            "keyWords": [
+                "opened",
+                "bin",
+                "trash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Painting",
+            "link": "res/data/SVGs/painting.svg",
+            "keyWords": [
+                "painting",
+                "mona",
+                "lisa",
+                "picture"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Pocket watch",
+            "link": "res/data/SVGs/pocket_watch.svg",
+            "keyWords": [
+                "watch",
+                "pocket",
+                "time"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Rose",
+            "link": "res/data/SVGs/rose.svg",
+            "keyWords": [
+                "rose",
+                "flower",
+                "vegetation"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Screen",
+            "link": "res/data/SVGs/screen.svg",
+            "keyWords": [
+                "screen",
+                "computer"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Silver coin",
+            "link": "res/data/SVGs/silver_coin.svg",
+            "keyWords": [
+                "silver",
+                "coin"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Speedometer",
+            "link": "res/data/SVGs/speedometer.svg",
+            "keyWords": [
+                "speedometer",
+                "speed"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Spider monster",
+            "link": "res/data/SVGs/spider_monster.svg",
+            "keyWords": [
+                "spider",
+                "monster",
+                "metal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Spyglass",
+            "link": "res/data/SVGs/spyglass.svg",
+            "keyWords": [
+                "spyglass",
+                "spy"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Stethoscope",
+            "link": "res/data/SVGs/stethoscope.svg",
+            "keyWords": [
+                "stethoscope",
+                "life",
+                "health"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Syringe",
+            "link": "res/data/SVGs/syringe.svg",
+            "keyWords": [
+                "syringe",
+                "life",
+                "health"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Totem",
+            "link": "res/data/SVGs/totem.svg",
+            "keyWords": [
+                "totem",
+                "koh",
+                "lanta"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Trophy",
+            "link": "res/data/SVGs/trophy.svg",
+            "keyWords": [
+                "trophy",
+                "win"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Uranium",
+            "link": "res/data/SVGs/uranium.svg",
+            "keyWords": [
+                "uranium",
+                "danger"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bucks pack",
+            "link": "res/data/SVGs/bucks_pack.svg",
+            "keyWords": [
+                "bucks",
+                "pack",
+                "money",
+                "cash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bucks pile",
+            "link": "res/data/SVGs/bucks_pile.svg",
+            "keyWords": [
+                "bucks",
+                "pile",
+                "money",
+                "cash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Cute Jupyter",
+            "link": "res/data/SVGs/cute_jupyter.svg",
+            "keyWords": [
+                "cute",
+                "jupyter",
+                "planet",
+                "space"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Electrical outlet",
+            "link": "res/data/SVGs/electrical_outlet.svg",
+            "keyWords": [
+                "electrical",
+                "outlet",
+                "electricity"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Employee",
+            "link": "res/data/SVGs/employee.svg",
+            "keyWords": [
+                "employee",
+                "icon",
+                "people",
+                "person",
+                "human"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Employer",
+            "link": "res/data/SVGs/employer.svg",
+            "keyWords": [
+                "employer",
+                "icon",
+                "people",
+                "person",
+                "human"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Frog",
+            "link": "res/data/SVGs/frog.svg",
+            "keyWords": [
+                "frog",
+                "animal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Lightning (2)",
+            "link": "res/data/SVGs/lightning2.svg",
+            "keyWords": [
+                "lightning",
+                "bolt"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Tool cabinet",
+            "link": "res/data/SVGs/tool_cabinet.svg",
+            "keyWords": [
+                "tool",
+                "cabinet",
+                "cupboard",
+                "workbench"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        }
+    ]
+}
